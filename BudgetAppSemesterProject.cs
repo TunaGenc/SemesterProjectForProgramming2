@@ -124,7 +124,7 @@ class DataStorage
 public class MainWindow : Gtk.Window
 {
     private DataStorage dataStore = new DataStorage();
-
+    private static string[] GetCategories() => new[]{"Food", "Rent", "Transport", "Utilities", "Health","Entertainment", "Clothing", "Savings", "Work", "Other"};
 
     private ListStore listStore;
     private TreeView treeView;
@@ -510,8 +510,6 @@ public class MainWindow : Gtk.Window
     }
 
 
-
-    private static string[] GetCategories() => new[]{"Food", "Rent", "Transport", "Utilities", "Health","Entertainment", "Clothing", "Savings", "Work", "Other"};
 
 
 }
