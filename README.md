@@ -1,4 +1,4 @@
-A desktop budgeting app built with C#, GTK#, and Cairo.
+A desktop budgeting app built with C#.It utilizes GTK and Cairo.
 
 Within this app  the user can do the following:
 
