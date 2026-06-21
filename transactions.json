@@ -1,0 +1,114 @@
+[
+  {
+    "Id": "c3526779-5cc6-404f-bdf5-78ee5d1fa603",
+    "Date": "2026-06-06T00:00:00+03:00",
+    "Description": "somthing1",
+    "Amount": 1000.0,
+    "Category": "Rent",
+    "IsIncome": false
+  },
+  {
+    "Id": "9ad387ca-f95e-45e0-803a-9ff70919a359",
+    "Date": "2026-06-06T00:00:00+03:00",
+    "Description": "somthing 2",
+    "Amount": 200.0,
+    "Category": "Other",
+    "IsIncome": true
+  },
+  {
+    "Id": "be77a8d8-d020-4f5b-bc87-42dc9370879e",
+    "Date": "2026-06-06T00:00:00+03:00",
+    "Description": "Sustenance ",
+    "Amount": 4566.0,
+    "Category": "Food",
+    "IsIncome": false
+  },
+  {
+    "Id": "2a5d2587-764d-4d12-b0c0-51133e12f9f1",
+    "Date": "2026-05-05T00:00:00+03:00",
+    "Description": "Hamburger",
+    "Amount": 987.0,
+    "Category": "Food",
+    "IsIncome": false
+  },
+  {
+    "Id": "efa4eddb-6cdc-47cb-b0fe-bf58c9e3a434",
+    "Date": "2026-06-07T00:00:00+03:00",
+    "Description": "CircusVisit",
+    "Amount": 2345.0,
+    "Category": "Entertainment",
+    "IsIncome": false
+  },
+  {
+    "Id": "bb507618-60f2-410e-8279-c80c591add36",
+    "Date": "2026-06-07T00:00:00+03:00",
+    "Description": "tooth hurty",
+    "Amount": 1413.0,
+    "Category": "Health",
+    "IsIncome": false
+  },
+  {
+    "Id": "75aa4fb3-b01e-465b-852e-7838f13e4b54",
+    "Date": "2026-04-04T00:00:00+03:00",
+    "Description": "Imbored",
+    "Amount": 4002.0,
+    "Category": "Transport",
+    "IsIncome": false
+  },
+  {
+    "Id": "38362ac0-40bb-452e-857c-68fbd6c838be",
+    "Date": "2026-06-07T00:00:00+03:00",
+    "Description": "Godhelpme",
+    "Amount": 1.0,
+    "Category": "Food",
+    "IsIncome": false
+  },
+  {
+    "Id": "6ac1f82d-a904-4736-b551-ab2288fee4d2",
+    "Date": "2026-06-07T00:00:00+03:00",
+    "Description": "something3",
+    "Amount": 42320.0,
+    "Category": "Other",
+    "IsIncome": true
+  },
+  {
+    "Id": "5a91ab17-0c5d-40ac-b694-de2c24c76e71",
+    "Date": "2026-06-07T00:00:00+03:00",
+    "Description": "happyday",
+    "Amount": 4232.0,
+    "Category": "Food",
+    "IsIncome": true
+  },
+  {
+    "Id": "1ad081f9-8303-42b1-8cd9-80592651d85f",
+    "Date": "2026-06-07T00:00:00+03:00",
+    "Description": "ItALLWORKSWHOOOO",
+    "Amount": 0.01,
+    "Category": "Savings",
+    "IsIncome": false
+  },
+  {
+    "Id": "2fd22a93-88e9-42ee-87a5-9c1028d8b91b",
+    "Date": "2026-06-15T00:00:00+03:00",
+    "Description": "Something4",
+    "Amount": 6543.0,
+    "Category": "Food",
+    "IsIncome": true
+  },
+  {
+    "Id": "afd5e9fc-b37b-4354-9c19-ac301524b1a1",
+    "Date": "2026-06-15T00:00:00+03:00",
+    "Description": "Idk",
+    "Amount": 3344.0,
+    "Category": "Rent",
+    "IsIncome": false
+  },
+  {
+    "Id": "1b54733c-eae2-4417-a516-6baeb7b14a78",
+    "Date": "2026-06-22T00:00:00+03:00",
+    "Description": "Clothes",
+    "Amount": 2333.0,
+    "Category": "Clothing",
+    "IsIncome": false
+  }
+]
